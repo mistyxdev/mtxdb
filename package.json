@@ -1,0 +1,15 @@
+{
+  "name": "mtxdb.config",
+  "version": "1.0.0",
+  "description": "Gerenciador de configurações robusto com scanner recursivo e persistência de cache.",
+  "main": "index.js",
+  "keywords": [
+    "config",
+    "configuration",
+    "settings",
+    "singleton"
+  ],
+  "author": "MtxDev",
+  "license": "ISC"
+}
+
